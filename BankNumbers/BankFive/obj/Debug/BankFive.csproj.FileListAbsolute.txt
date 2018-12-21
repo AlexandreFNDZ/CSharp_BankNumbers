@@ -1,0 +1,22 @@
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\bin\Debug\BankFive.exe.config
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\bin\Debug\BankFive.exe
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\bin\Debug\BankFive.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\bin\Debug\Modelos.dll
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\bin\Debug\Modelos.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\obj\Debug\BankFive.csprojAssemblyReference.cache
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\obj\Debug\BankFive.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\obj\Debug\BankFive.csproj.CopyComplete
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\obj\Debug\BankFive.exe
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\obj\Debug\BankFive.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\BankNumbers\BankFive\bin\Debug\Modelos.xml
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\bin\Debug\BankFive.exe.config
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\bin\Debug\BankFive.exe
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\bin\Debug\BankFive.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\bin\Debug\Modelos.dll
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\bin\Debug\Modelos.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\bin\Debug\Modelos.xml
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\obj\Debug\BankFive.csprojAssemblyReference.cache
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\obj\Debug\BankFive.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\obj\Debug\BankFive.csproj.CopyComplete
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\obj\Debug\BankFive.exe
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\BankFive\obj\Debug\BankFive.pdb
