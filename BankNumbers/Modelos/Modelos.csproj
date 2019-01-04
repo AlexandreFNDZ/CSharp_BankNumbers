@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutenticacaoHelper.cs" />
+    <Compile Include="ConversorMoeda.cs" />
     <Compile Include="IAutenticavel.cs" />
     <Compile Include="Cliente.cs" />
     <Compile Include="ContaCorrente.cs" />

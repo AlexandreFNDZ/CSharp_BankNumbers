@@ -12,3 +12,10 @@ C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bi
 C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
 C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\Modelos\obj\Debug\Modelos.dll
 C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_Alura\Projeto05 - Bibliotecas\BankNumbers\Modelos\obj\Debug\Modelos.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_BankNumbers\BankNumbers\Modelos\bin\Debug\Modelos.xml
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_BankNumbers\BankNumbers\Modelos\bin\Debug\Modelos.dll
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_BankNumbers\BankNumbers\Modelos\bin\Debug\Modelos.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_BankNumbers\BankNumbers\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_BankNumbers\BankNumbers\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_BankNumbers\BankNumbers\Modelos\obj\Debug\Modelos.dll
+C:\Users\alexandre.pereira\Documents\Projetos\GitHub\CSharp_BankNumbers\BankNumbers\Modelos\obj\Debug\Modelos.pdb
